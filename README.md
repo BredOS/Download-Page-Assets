@@ -18,8 +18,8 @@
 `board_name` is just a placeholder value for what board will be linked in the website. This would be easy for the javascript that will be implemented to handle and update the downloads for the website. 
 ### Name the board!!
 `name` in the structor will be used as the title text in the info page for the downloads. 
-### Images!
-`images : []` will store and array of stings that store the image location that you will want to display. This may be changed to `device_image`|String| and `screenshots`|Array-Strings| later.
+### Image!
+`images` will store the image location that you will want to display. This may be changed to `device_image`|String| later.
 ### Descriptions!
 `board_description` stores the sting of what the board is. Be mindful new lines will need the html new line tag.
 ### Download links!
