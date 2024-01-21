@@ -3,7 +3,7 @@
 ```json
 "board_name": {
   "name": "",
-  "images": [],
+  "image": "",
   "board_description": "",
   "download_links": {
     "latest": {
