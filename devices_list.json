@@ -1,7 +1,7 @@
 {
   "rock_5a": {
     "name": "Rock 5A"
-    "images": [],
+    "image": "",
     "board_description": "The ROCK 5A board is based around the scaled down Rockchip RK3588S octa-core processor with quad Cortex A76 and a quad Cortex A55 and ARM Mali G610MC4 GPU and custom neural processor unit (NPU) and supports 8Kp60 video. It also has up to 16GB of 64bits LPDDR4x RAM on the board to support large AI frameworks.",
     "download_links": {
       "latest": {
@@ -13,7 +13,7 @@
   },
   "rock5b": {
     "name": "Rock 5B",
-    "images": [],
+    "image": "",
     "board_description": "The ROCK5 Model B, equipped with the RK3588 SoC and 8 cores, delivers exceptional power-efficient performance in a compact Pico ITX form factor.",
     "download_links": {
       "latest": {
