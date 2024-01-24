@@ -1,7 +1,7 @@
 {
   "rock_5a": {
     "name": "Rock 5A",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/Rock5A.png",
     "board_description": "The ROCK 5A board is based around the scaled down Rockchip RK3588S octa-core processor with quad Cortex A76 and a quad Cortex A55 and ARM Mali G610MC4 GPU and custom neural processor unit (NPU) and supports 8Kp60 video. It also has up to 16GB of 64bits LPDDR4x RAM on the board to support large AI frameworks.",
     "download_links": {
       "latest": {
@@ -13,7 +13,7 @@
   },
   "rock5b": {
     "name": "Rock 5B",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/ROCK5B.png",
     "board_description": "The ROCK5 Model B, equipped with the RK3588 SoC and 8 cores, delivers exceptional power-efficient performance in a compact Pico ITX form factor.",
     "download_links": {
       "latest": {
@@ -25,7 +25,7 @@
   },
   "oarngepi5plus": {
     "name": "Orange Pi 5 plus",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/OrangePi5.jpg",
     "board_description": "The Orange Pi 5 plus is a single-board computer that features an upgraded Rockchip SoC, up to 32GB of RAM, faster WiFi, and other improvements over earlier versions of the Orange Pi ARM64 SBCs.",
     "download_links": {
       "latest": {
@@ -36,7 +36,7 @@
     }
   },
   "mekotronicsr85x": {
-    "name": "",
+    "name": "Mekotronics R58X",
     "image": "",
     "board_description": "",
     "download_links": {
@@ -48,7 +48,7 @@
     }
   },
   "mekotronicsr85x4g": {
-    "name": "",
+    "name": "Mekotronics R58X 4G",
     "image": "",
     "board_description": "",
     "download_links": {
@@ -60,6 +60,78 @@
     }
   },
   "mekotronicsr85s": {
+    "name": "Mekotronics R58S (Mini PC)",
+    "image": "",
+    "board_description": "The Mekotronics Mini PC, equipped with the Rockchip RK3588, supports output resolutions up to 8K@60Hz and input resolutions up to 4k60Hz",
+    "download_links": {
+      "latest": {
+        "name": "BredOS-ARM-r58s-2023-07-03",
+        "link": "https://us.repo.bredos.org/images/BredOS-ARM-r58s-2023-07-03.img.xz",
+        "check_sum": "e0bd0de82e38a254132aab4c7f8a4334"
+      }
+    }
+  },
+  "mekotronicsr85x": {
+    "name": "Mekotronics R58X",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "mekotronicsr85x4g": {
+    "name": "Mekotronics R58X 4G",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "mekotronicsr85xpro": {
+    "name": "Mekotronics R58X",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "m1": {
+    "name": "Apple M1",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "m2": {
+    "name": "Apple M2",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    },
+  }
+  "board_name": {
     "name": "",
     "image": "",
     "board_description": "",
@@ -71,8 +143,20 @@
       }
     }
   },
-  "board_name": {
-    "name": "",
+  "edge2": {
+    "name": "Khadas Edge 2",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "vim4": {
+    "name": "Khadas Edge 4",
     "image": "",
     "board_description": "",
     "download_links": {
