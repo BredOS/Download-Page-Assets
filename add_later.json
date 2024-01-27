@@ -1,0 +1,98 @@
+{
+  "mekotronicsr85x": {
+    "name": "Mekotronics R58X",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "mekotronicsr85x4g": {
+    "name": "Mekotronics R58X 4G",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "mekotronicsr85xpro": {
+    "name": "Mekotronics R58X",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "m1": {
+    "name": "Apple M1",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "m2": {
+    "name": "Apple M2",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "board_name": {
+    "name": "",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "edge2": {
+    "name": "Khadas Edge 2",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  },
+  "vim4": {
+    "name": "Khadas Edge 4",
+    "image": "",
+    "board_description": "",
+    "download_links": {
+      "latest": {
+        "name": "",
+        "link": "",
+        "check_sum": ""
+      }
+    }
+  }
+}
