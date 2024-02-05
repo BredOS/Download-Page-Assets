@@ -37,7 +37,7 @@
   },
   "oarngepi5plus": {
     "name": "Orange Pi 5 plus",
-    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/OrangePi5.jpg",
+    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/OrangePi5.png",
     "board_description": "The Orange Pi 5 plus is a single-board computer that features an upgraded Rockchip SoC, up to 32GB of RAM, faster WiFi, and other improvements over earlier versions of the Orange Pi ARM64 SBCs.",
     "download_links": {
       "latest": {
