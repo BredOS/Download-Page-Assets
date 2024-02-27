@@ -5,9 +5,9 @@
     "board_description": "The ROCK 5 Model A is based around the scaled down Rockchip RK3588S octa-core processor with quad Cortex A76 and a quad Cortex A55 and ARM Mali G610MC4 GPU and custom neural processor unit (NPU) and supports 8Kp60 video. It also has up to 16GB of 64bits LPDDR4x RAM on the board to support large AI frameworks.",
     "download_links": {
       "latest": {
-        "name": "Rock 5A - Latest 2024-01-21",
-        "link": "https://repo.bredos.org/new-images/BredOS-ARM-Rock5A-2024-01-21.img.xz",
-        "check_sum": ""
+        "name": "Rock 5A - Latest 2024-02-27",
+        "link": "https://repo.bredos.org/BredOS-ARM-Rock5A-2024-02-27.img.xz",
+        "check_sum": "7333b0160a8266fb19b77f7c255c212b"
       }
     }
   },
@@ -17,9 +17,9 @@
     "board_description": "The ROCK 5 Model B, equipped with the RK3588 SoC and 8 cores, delivers exceptional power-efficient performance in a compact Pico ITX form factor.",
     "download_links": {
       "latest": {
-        "name": "Rock 5B - Latest 2024-01-21",
-        "link": "https://repo.bredos.org/new-images/BredOS-ARM-rock5b-2024-01-21.img.xz",
-        "check_sum": ""
+        "name": "Rock 5B - Latest 2024-02-27",
+        "link": "https://repo.bredos.org/BredOS-ARM-rock5b-2024-02-27.img.xz",
+        "check_sum": "f6890cf54cca6828f11f2fe3969478e5"
       }
     }
   },
@@ -57,10 +57,22 @@
     "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/vim4.png",
     "board_description": "The Khadas VIM4  BredOS images are also available on oowow",
     "download_links": {
-      "cinnamon_latest": {
+      "gnome_latest": {
         "name": "VIM 4 Gnome edition - Latest 2024-02-25",
         "link": "https://repo.bredos.org/vim4-bredos-arm-cinnamon-v202402275.img.xz",
         "check_sum": "b2c2c293f37bd51610e451bc2512cb63"
+      }
+    }
+  },
+  "nova": {
+    "name": "Indiedroid Nova",
+    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/nova.png",
+    "board_description": "The Indiedroid Nova is the same form factor as Raspberry Pi 4B, but 3+ times faster and supports 16GB RAM, plus 8K video!",
+    "download_links": {
+      "latest": {
+        "name": "Nova - Latest 2024-02-27",
+        "link": "https://repo.bredos.org/BredOS-ARM-nova-2024-02-27.img.xz",
+        "check_sum": "d31e99c74eee742ccf5e16c02262ba12"
       }
     }
   },
