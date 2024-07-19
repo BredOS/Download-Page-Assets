@@ -1,4 +1,16 @@
 {
+  "cpi4b": {
+    "name": "Cool Pi 4B",
+    "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/cp4b.png",
+    "board_description": "The Cool Pi 4 Model B is a powerful alternative to Raspberry Pi 4 SBC with mostly the same form factor and interfaces but equipped with a Rockchip RK3588S.",
+    "download_links": {
+      "latest": {
+        "name": "Cool Pi 4B - Latest 2024-07-19",
+        "link": "https://repo.bredos.org/BredOS-ARM-CPI4-2024-07-19.img.xz",
+        "check_sum": "2a47e0b0d17952532cc4dbd67cf6b66a"
+      }
+    }
+  },
   "rock5a": {
     "name": "Rock 5A",
     "image": "https://raw.githubusercontent.com/BredOS/Download-Page-Assets/main/img/devices/Rock5A.png",
